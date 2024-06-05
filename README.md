@@ -1,6 +1,7 @@
 #Total Actual Duration :  
 50 hours 
-![Ekran görüntüsü 2024-06-05 152050](https://github.com/Muhammetkaraderili/week12-web/assets/150444110/2a573f99-5707-4039-ba10-eb17587e913f)
-![Ekran görüntüsü 2024-06-05 182235](https://github.com/Muhammetkaraderili/week12-web/assets/150444110/17e76c29-cc1b-4ca2-b83e-b95f534a0c4d)
-![Ekran görüntüsü 2024-06-05 150818](https://github.com/Muhammetkaraderili/week12-web/assets/150444110/b504fd0d-daa1-41ac-8e99-e544ac4d0c32)
-![Ekran görüntüsü 2024-06-03 200056](https://github.com/Muhammetkaraderili/week12-web/assets/150444110/9f5b6f4c-1c14-4845-9938-35ac9ad23716)
+
+![Ekran görüntüsü 2024-06-03 200056](https://github.com/Muhammetkaraderili/week12-web/assets/150444110/6da209f1-b3f3-4bf4-8c05-f3c5fe1583e8) ![Ekran görüntüsü 2024-06-05 150408](https://github.com/Muhammetkaraderili/week12-web/assets/150444110/fa4a8a70-277e-4e15-b638-b68e36f32e4a)
+
+![Ekran görüntüsü 2024-05-13 184742](https://github.com/Muhammetkaraderili/week12-web/assets/150444110/dfec7406-e585-40b2-a343-9155e0fb8fec) ![Ekran görüntüsü 2024-05-13 131823](https://github.com/Muhammetkaraderili/week12-web/assets/150444110/b18efe73-fb27-4581-8a61-20df7202ffd3)
+
